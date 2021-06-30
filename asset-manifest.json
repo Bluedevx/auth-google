@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/auth-google/static/css/main.5be162fc.chunk.css",
-    "main.js": "/auth-google/static/js/main.365a390d.chunk.js",
-    "main.js.map": "/auth-google/static/js/main.365a390d.chunk.js.map",
+    "main.js": "/auth-google/static/js/main.3b4b2049.chunk.js",
+    "main.js.map": "/auth-google/static/js/main.3b4b2049.chunk.js.map",
     "runtime-main.js": "/auth-google/static/js/runtime-main.3840c095.js",
     "runtime-main.js.map": "/auth-google/static/js/runtime-main.3840c095.js.map",
-    "static/js/2.416bbd22.chunk.js": "/auth-google/static/js/2.416bbd22.chunk.js",
-    "static/js/2.416bbd22.chunk.js.map": "/auth-google/static/js/2.416bbd22.chunk.js.map",
+    "static/js/2.1c9259f4.chunk.js": "/auth-google/static/js/2.1c9259f4.chunk.js",
+    "static/js/2.1c9259f4.chunk.js.map": "/auth-google/static/js/2.1c9259f4.chunk.js.map",
     "static/js/3.2cfe944a.chunk.js": "/auth-google/static/js/3.2cfe944a.chunk.js",
     "static/js/3.2cfe944a.chunk.js.map": "/auth-google/static/js/3.2cfe944a.chunk.js.map",
     "index.html": "/auth-google/index.html",
     "static/css/main.5be162fc.chunk.css.map": "/auth-google/static/css/main.5be162fc.chunk.css.map",
-    "static/js/2.416bbd22.chunk.js.LICENSE.txt": "/auth-google/static/js/2.416bbd22.chunk.js.LICENSE.txt",
+    "static/js/2.1c9259f4.chunk.js.LICENSE.txt": "/auth-google/static/js/2.1c9259f4.chunk.js.LICENSE.txt",
     "static/media/logo.fbeef7d5.png": "/auth-google/static/media/logo.fbeef7d5.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3840c095.js",
-    "static/js/2.416bbd22.chunk.js",
+    "static/js/2.1c9259f4.chunk.js",
     "static/css/main.5be162fc.chunk.css",
-    "static/js/main.365a390d.chunk.js"
+    "static/js/main.3b4b2049.chunk.js"
   ]
 }
